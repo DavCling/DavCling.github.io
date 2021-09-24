@@ -19,7 +19,6 @@ Phone\: 216-368-4294\\
 Email\: david DOT clingingsmith AT gmail DOT com
 
 [__CV in PDF__](https://davidclingingsmith.com/files/ClingingsmithCV.pdf)\\
-[__Research and teaching statement in PDF__](https://davidclingingsmith.com/files/ClingingsmithResearchTeaching.pdf)
 
 Citizenship: Canada and United States
 Martial status: Married, no children
