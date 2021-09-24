@@ -8,13 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my little corner of the web. I am an economic historian and applied microeconomist with research interests in social economics and innovation. I did my Ph.D. in economics at Harvard University. I am Associate Professor of Economics at Case Western Reserve University.
+Welcome to my little corner of the web. I am an economist with research interests in economic history and applied microeconomics. I did my Ph.D. in economics at Harvard University. I am Associate Professor of Economics and Department Chair at Case Western Reserve University.
 
-If you peruse my research page you'll see I've published research on language, religious identity, social status, entrepreneurship, and the economic history of India. I use methods ranging from archival research to observational data to field experiments. 
-
-I am currently developing a project about the impact of automation on the labor market in the postwar United States with Leah Boustan.
-
-To download a PDF copy of my CV or research and teaching statement, see the CV tab above.
+If you peruse my research page you'll see I've published research on language, religious identity, social status, and innovation. I have used methods ranging from archival research to observational data to field experiments. 
 
 Selected Publications
 --------
