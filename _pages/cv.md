@@ -59,6 +59,7 @@ Other Publications
   
 Awards and Honors
 ======
+* Winner of the 2020 Academy of Management Prize for most influential paper in organizational neuroscience for "Founder Passion, Neural Engagement, and Investor Interest in Startup Pitches: An fMRI Study.""
 * Lewis-Progressive Fellowship, Weatherhead School of Management, Case Western Reserve University, July 2016-July 2017. 
 * Weatherhead School of Management Undergraduate Teaching Award, Nominated 2013, 2015, 2016.
 * Winner of the 2008 Explorations Prize for best article in Explorations in Economic History for “Deindustrialization in 18th and 19th Century India.”
@@ -188,7 +189,8 @@ Teaching
  
 Advising
 =====
-* Alec Hoover (2019-, honors thesis)
+* Claire Jeffress (2021-, honors thesis)
+* Alec Hoover (2019-2020, honors thesis)
 * Victoria Sung (2018-2019, honors thesis)
 * Nathan Delany (2015-18, PhD History)
 * Jackie Blair (2017-18; honors thesis)
@@ -237,18 +239,22 @@ Service
 
 ## Institutional 
 ### University Level
-* Faculty Senate Honorary Degree Committee. Weatherhead School of Management Representative. Fall 2008-Present.
+* Faculty Senate, Senator, Summer 2021-Summer 2024
+* FSCUE Subcommittee on Curricular and Pedagogical Preparations for Small Lecture Classes, Chair, Summer 2020
+* Faculty Senate Honorary Degree Committee. Weatherhead School of Management Representative. Fall 2008-Fall 2020.
 * Faculty Marshall. Commencement and Convocation. Spring 2010-Present.
 * Academic Integrity Board. Faculty Representative. Fall 2010-Present.
 * Faculty Senate Committee on Undergraduate Education Academic Standing Subcommittee. Faculty Representative. Spring 2015-Spring 2018.
 
 ### School Level
+* Weatherhead School of Management Diversity and Inclusion Advisory Board, Spring 2021-
 * Weatherhead School of Management Promotion and Tenure Committee. Member. Fall 2017-Present.
 * Weatherhead School of Management Promotion and Tenure Committee. Observer. Fall 2015-Spring 2016.
 * Weatherhead School of Management Executive Committee. Member and Secretary. Fall 2013-Spring 2016.
 * Weatherhead School of Management. Secretary of the Faculty. Fall 2013-Spring 2016.
 
 ### Department Level
+* Department Chair. 2021-Present
 * Strategic Planning Committee. Member 2017-Present
 * Hiring Committee. Member. 2009-2012; 2017-2018
 * Seminar Committee. Member. 2009-2014; 2018.
