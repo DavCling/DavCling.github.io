@@ -1,0 +1,10 @@
+<head>
+  …  
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    integrity="sha512-p5Q6RoRiO5TpZ9X9xy+EOfQ6C+gqa+LyXMqyhXUH1f6H6qgNO2RLP0w+NVO7I5P2hKgf1amglwWf08zhYJud5w=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"  
+  />
+</head>

@@ -311,3 +311,42 @@ h1, h2, h3, h4, h5, h6 {
     background: #e3e8e0;
     color: #2e2e2e;
 }
+
+/* Footer styles */
+.site-footer {
+    background: #3a4a3f;
+    color: #cfdac8;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.site-footer .footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-footer .social-icons a {
+  margin-left: 0.75rem;
+  color: inherit;
+}
+
+.site-footer .social-icons svg {
+  width: 24px;
+  height: 24px;
+  fill: currentColor;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.social-icon {
+  color: currentColor;
+  font-size: 1.5rem;
+}
+.social-icon img {
+  width: 1.5rem;
+  height: 1.5rem;
+}
